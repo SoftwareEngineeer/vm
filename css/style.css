@@ -4013,6 +4013,12 @@ ul {
     margin-bottom: 20px;
   }
 }
+.special_cource_text {
+  text-align: left; /* Or center, depending on the desired alignment */
+  padding: 15px;
+  margin: 0;
+}
+
 
 /* line 42, E:/172 Etrain Education/172_Etrain_Education_html/sass/_special_cource.scss */
 .special_cource .single_special_cource .special_cource_text {
